@@ -1,0 +1,5 @@
+API												Testes
+https://api-openinsurance.mapfre.com.br/open-insurance/insurance-transport/v1			https://web.conformance.directory.opinbrasil.com.br/plan-detail.html?plan=QVguUgL4MnUSv&public=true
+https://api-openinsurance.mapfre.com.br/open-insurance/insurance-rural/v1			https://web.conformance.directory.opinbrasil.com.br/plan-detail.html?plan=1CKeXmHrfig54&public=true
+https://api-openinsurance.mapfre.com.br/open-insurance/insurance-auto/v1			https://web.conformance.directory.opinbrasil.com.br/plan-detail.html?plan=iJg2GcWQUa27r&public=true
+https://api-openinsurance.mapfre.com.br/open-insurance/insurance-patrimonial/v1			https://web.conformance.directory.opinbrasil.com.br/plan-detail.html?plan=ahkSE18LBrhxx&public=true
